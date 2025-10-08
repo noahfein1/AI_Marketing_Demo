@@ -1,5 +1,21 @@
-customer_name,product_interest,region
-John,sports gear,US
-Sarah,skincare,Canada
-David,gaming accessories,UK
-Maya,home decor,Australia
+customer_id,customer_name,email,age,gender,product_interest,region,country,income_level,purchase_history,last_purchase_date,preferred_channel,engagement_score,customer_segment,loyalty_tier,phone_number,company_size,industry,subscription_status,preferred_language
+CUST001,John Smith,john.smith@email.com,28,M,sports gear,California,US,high,15,2024-01-15,email,85,premium,gold,+1-555-0101,small,technology,active,en
+CUST002,Sarah Johnson,sarah.j@email.com,34,F,skincare,Ontario,Canada,medium,8,2024-01-10,sms,72,standard,silver,+1-416-555-0102,medium,healthcare,active,en
+CUST003,David Chen,david.chen@email.com,22,M,gaming accessories,London,UK,low,3,2024-01-08,social,65,newcomer,bronze,+44-20-555-0103,large,entertainment,active,en
+CUST004,Maya Patel,maya.patel@email.com,29,F,home decor,Sydney,Australia,high,12,2024-01-12,email,78,premium,gold,+61-2-555-0104,small,retail,active,en
+CUST005,Alex Rodriguez,alex.r@email.com,31,M,electronics,Texas,US,medium,6,2024-01-05,email,68,standard,silver,+1-555-0105,medium,technology,active,es
+CUST006,Emma Wilson,emma.w@email.com,26,F,fashion,New York,US,low,4,2024-01-07,social,71,newcomer,bronze,+1-555-0106,large,retail,active,en
+CUST007,James Brown,james.b@email.com,45,M,automotive,Alberta,Canada,high,20,2024-01-14,email,92,premium,platinum,+1-403-555-0107,small,automotive,active,en
+CUST008,Lisa Kim,lisa.kim@email.com,33,F,beauty,Seoul,South Korea,medium,9,2024-01-09,sms,75,standard,silver,+82-2-555-0108,medium,beauty,active,ko
+CUST009,Michael Taylor,m.taylor@email.com,38,M,home improvement,Queensland,Australia,high,11,2024-01-11,email,81,premium,gold,+61-7-555-0109,small,construction,active,en
+CUST010,Sophie Martin,sophie.m@email.com,24,F,fitness,Paris,France,low,2,2024-01-06,social,58,newcomer,bronze,+33-1-555-0110,large,health,active,fr
+CUST011,Robert Lee,robert.lee@email.com,42,M,business tools,Tokyo,Japan,high,18,2024-01-13,email,88,premium,platinum,+81-3-555-0111,medium,technology,active,ja
+CUST012,Anna Kowalski,anna.k@email.com,30,F,books,Warsaw,Poland,medium,7,2024-01-04,email,69,standard,silver,+48-22-555-0112,small,education,active,pl
+CUST013,Carlos Mendez,carlos.m@email.com,27,M,music equipment,Madrid,Spain,low,5,2024-01-03,social,63,newcomer,bronze,+34-91-555-0113,large,entertainment,active,es
+CUST014,Jennifer Davis,j.davis@email.com,36,F,pet supplies,Florida,US,medium,10,2024-01-16,email,76,standard,silver,+1-555-0114,medium,retail,active,en
+CUST015,Takeshi Yamamoto,takeshi.y@email.com,41,M,photography,Osaka,Japan,high,14,2024-01-17,email,83,premium,gold,+81-6-555-0115,small,media,active,ja
+CUST016,Isabella Garcia,isabella.g@email.com,23,F,travel gear,Barcelona,Spain,low,1,2024-01-02,social,55,newcomer,bronze,+34-93-555-0116,large,tourism,active,es
+CUST017,Thomas Anderson,thomas.a@email.com,39,M,outdoor gear,Colorado,US,high,16,2024-01-18,email,89,premium,platinum,+1-555-0117,small,outdoor,active,en
+CUST018,Nina Petrov,nina.p@email.com,32,F,art supplies,Moscow,Russia,medium,6,2024-01-01,email,67,standard,silver,+7-495-555-0118,medium,arts,active,ru
+CUST019,Ahmed Hassan,ahmed.h@email.com,35,M,tech gadgets,Dubai,UAE,high,13,2024-01-19,email,86,premium,gold,+971-4-555-0119,large,technology,active,ar
+CUST020,Chloe Thompson,chloe.t@email.com,28,F,wellness products,Vancouver,Canada,medium,8,2024-01-20,sms,74,standard,silver,+1-604-555-0120,medium,health,active,en
