@@ -52,7 +52,7 @@ def calculate_roi_metrics(df):
     }
 
 # --- SIDEBAR NAVIGATION ---
-st.sidebar.title("🧭 AI Marketing Engine")
+st.sidebar.title(" AI Marketing Engine")
 page = st.sidebar.radio("Choose a feature:", [
     "📊 Customer Analytics", 
     "✉️ Email Campaigns", 
